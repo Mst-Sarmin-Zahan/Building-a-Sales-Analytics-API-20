@@ -1,1 +1,5 @@
-https://documenter.getpostman.com/view/29279803/2s9YsKfBb8
+Title: Sales CRUD
+https://documenter.getpostman.com/view/29279803/2s9YsKfrdU
+
+Title: Sales Analytics
+https://documenter.getpostman.com/view/29279803/2s9YsKfrdT
